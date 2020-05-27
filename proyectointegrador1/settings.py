@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'proyectointegrador1.wsgi.application'
 DATABASES = {
     'default': {
 	'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'pi1_eafit_db_13_local',
+        'NAME': 'pi1_eafit_db_13',
 	'USER': 'adchavesp@pi1-eafit-db-13',
 	'PASSWORD': 'julio18*',
         'HOST': 'pi1-eafit-db-13.mysql.database.azure.com',                                                                                                    
